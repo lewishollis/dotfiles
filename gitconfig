@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lewishollis@hotmail.co.uk
+	name = Lewis Hollis
